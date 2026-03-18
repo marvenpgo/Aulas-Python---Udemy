@@ -1,0 +1,8 @@
+# Adicionar arquivos
+    git add .
+
+# Commitar arquivos - enviar mensagem entre as aspas
+    git commit -m " "    
+
+# Atualizar no Github
+    git push -u origin main
