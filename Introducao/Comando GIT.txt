@@ -4,5 +4,8 @@
 # Commitar arquivos - enviar mensagem entre as aspas
     git commit -m " "    
 
-# Atualizar no Github
+# PUSH envia do repositório local para o remoto (Github).
     git push -u origin main
+
+# PULL envia do remoto (Github) para o repositorio remoto
+    git pull 
