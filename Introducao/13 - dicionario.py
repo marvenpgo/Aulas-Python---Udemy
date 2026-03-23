@@ -29,6 +29,6 @@ print(filmes.items())
 filmes.update({"nota": 9.5})
 print(filmes)
 
-# 7 - Remover item no dicionario
+# 7 - Remover item no dicionario (remove a chave e value)
 filmes.pop("Ator")
 print(filmes)
