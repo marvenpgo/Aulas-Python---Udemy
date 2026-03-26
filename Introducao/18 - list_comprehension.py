@@ -36,4 +36,3 @@ while True:    # loop enquanto for verdadeiro - quebra o loop com sair = break
         for m in moviefound:
             print(m)
     else:
-        print(f"Nenhum filme encontrato com o nome {searchName}. Tente novamente.")
